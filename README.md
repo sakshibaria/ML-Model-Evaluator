@@ -6,7 +6,7 @@
 
 ## 🔧 Features
 
-- 📁 Upload CSV datasets directly
+- 📁 Upload CSV datasets directly 
 - 📌 Dynamically select:
   - Target column (Y)
   - Feature columns (X)
